@@ -1,4 +1,4 @@
-<!-- This file is modified by @sickcodes from https://github.com/kholia/OSX-KVM/tree/master/OpenCore-Catalina -->
+<!-- This file is modified by @Mythses from https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom-sonoma.plist -->
 <!-- The modifications are placeholders for: {{DEVICE_MODEL}}, {{SERIAL}}, {{BOARD_SERIAL}}, {{UUID}}, {{ROM}}, {{WIDTH}}, {{HEIGHT}} -->
 <!-- All credit for this file https://github.com/kholia/OSX-KVM/blob/master/CREDITS.md -->
 <!-- Scan policy generator: https://oc-scanpolicy.vercel.app/ -->
